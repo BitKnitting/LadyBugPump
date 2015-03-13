@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/8/2015 7:13:12 AM
+
+BeginCmp
+TimeStamp = /54F97DFE;
+Reference = D1;
+ValeurCmp = 4004;
+IdModule  = SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F9896B;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F98004;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = LB_CONN_WIDE_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F97DF2;
+Reference = Q1;
+ValeurCmp = TIP122;
+IdModule  = DPAK2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F97DF8;
+Reference = R1;
+ValeurCmp = 2.2K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F98971;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = SM0805;
+EndCmp
+
+EndListe
